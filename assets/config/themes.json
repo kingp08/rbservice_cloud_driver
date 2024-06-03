@@ -1,0 +1,142 @@
+{
+  "themes": {
+    "dark": {
+      "name": "Dark",
+      "is_dark": true,
+      "colors": {
+        "--be-foreground-base": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "--be-primary-light": [
+          239,
+          246,
+          255,
+          1
+        ],
+        "--be-primary": [
+          191,
+          219,
+          254,
+          1
+        ],
+        "--be-primary-dark": [
+          147,
+          197,
+          253,
+          1
+        ],
+        "--be-on-primary": [
+          56,
+          30,
+          114,
+          1
+        ],
+        "--be-background": [
+          23,
+          23,
+          26,
+          1
+        ],
+        "--be-background-alt": [
+          34,
+          34,
+          38,
+          1
+        ],
+        "--be-background-chip": [
+          66,
+          68,
+          74,
+          1
+        ],
+        "--be-paper": [
+          36,
+          37,
+          40,
+          1
+        ],
+        "--be-disabled-bg-opacity": 12,
+        "--be-disabled-fg-opacity": 30,
+        "--be-hover-opacity": 8,
+        "--be-focus-opacity": 12,
+        "--be-selected-opacity": 16,
+        "--be-text-main-opacity": 100,
+        "--be-text-muted-opacity": 70,
+        "--be-divider-opacity": 12
+      },
+      "created_at": "2019-12-26T16:22:25.000000Z",
+      "updated_at": "2019-12-26T16:22:25.000000Z"
+    },
+    "light": {
+      "name": "Light",
+      "is_dark": false,
+      "colors": {
+        "--be-foreground-base": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "--be-primary-light": [
+          191,
+          219,
+          254,
+          1
+        ],
+        "--be-primary": [
+          59,
+          130,
+          246,
+          1
+        ],
+        "--be-primary-dark": [
+          37,
+          99,
+          235,
+          1
+        ],
+        "--be-on-primary": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "--be-background": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "--be-background-alt": [
+          246,
+          248,
+          250,
+          1
+        ],
+        "--be-background-chip": [
+          233,
+          236,
+          239,
+          1
+        ],
+        "--be-paper": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "--be-disabled-bg-opacity": 12,
+        "--be-disabled-fg-opacity": 26,
+        "--be-hover-opacity": 4,
+        "--be-focus-opacity": 12,
+        "--be-selected-opacity": 8,
+        "--be-text-main-opacity": 87,
+        "--be-text-muted-opacity": 60,
+        "--be-divider-opacity": 12
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+enum EntryMoveType {
+  move,
+  copy,
+}
